@@ -42,5 +42,4 @@ Give a ⭐️ if you like this project!
   Traversy Media
   
 - Inspiration: Microverse
-- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
-  for the original design.
+
