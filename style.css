@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  color: #000000a6;
+  margin: 25px;
+  font-size: 38px;
+}
+
+.boldHeader {
+  color: rgba(80, 164, 199, 0.5);
+}
+
+.container {
+  padding: 20px;
+  margin: 30px;
+  width: 100%;
+  height: auto;
+}
+
+.form-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.title-input,
+.author-input,
+.book-number {
+  width: 100%;
+}
+
+.form-content input {
+  margin: 30px 10px;
+  width: 80%;
+  padding: 10px;
+}
+
+label {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.addBook-btn {
+  width: 80%;
+  align-self: flex-start;
+  outline: none;
+  cursor: pointer;
+  font-size: 20px;
+  background-color: rgba(80, 164, 199, 0.5);
+}
+
+thead tr {
+  display: flex;
+  text-align: center;
+  border: #000000a6 solid 1px;
+  justify-content: space-between;
+  margin-right: 300px;
+  width: 80vw;
+  font-size: 20px;
+}
+
+tbody tr {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  width: 80vw;
+  font-size: 20px;
+  margin: 20px 0px;
+  padding: 10px 4px;
+  background-color: rgba(128, 128, 128, 0.352);
+}
+
+.delete {
+  background-color: rgb(255, 0, 0);
+  color: white;
+  padding: 0 2.5px;
+  list-style: none;
+  text-decoration: none;
+}
+
+.alert,
+.alert-danger {
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 18px;
+  height: 30px;
+  width: 80%;
+  background-color: red;
+}
+
+.alert-success {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  text-transform: uppercase;
+  background-color: rgb(5, 184, 5);
+}
