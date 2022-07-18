@@ -15,16 +15,18 @@ To get a local copy up and running follow these simple example steps.
 - open the command prompt in this directory.
 - write `https://github.com/gids-dadi/myBookListApp`.
 - go to the repository folder in your command prompt `myBookListApp`.
+- open with your favourite editor
+- open the index.html with live server in the browser. 
 
 ## Live link
+  [Live-Link](https://gids-dadi.github.io/myBookListApp/)
 
 
 ## 👤 Author
 
 👤 **Gideon Dadi**
 
--Linkedin [@GideonDadi](https://www.linkedin.com/feed/)
-
+- Linkedin [@GideonDadi](https://www.linkedin.com/feed/)
 - GitHub: [@gids_dadi](https://github.com/gids-dadi)
 - Twitter: [@Dadi_AG](https://twitter.com/Dadi_AG)
 
